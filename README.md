@@ -1,2 +1,0 @@
-# githubopg
-README
